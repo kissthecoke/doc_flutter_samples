@@ -1,6 +1,6 @@
 {
-    "name": "doc_flutter_project",
-    "short_name": "doc_flutter_project",
+    "name": "doc_flutter_samples",
+    "short_name": "doc_flutter_samples",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
